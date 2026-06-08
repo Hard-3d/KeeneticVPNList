@@ -11,7 +11,7 @@ git clone https://github.com/Hard-3d/KeeneticVPNList.git /opt/root/Bird4Static/l
 </pre>
 
 Добавить в /opt/root/Bird4Static/scripts/add-bird4_routes.sh
-после URLS
+после "source $HOMEPATH/scripts/func.sh"
 
 <pre>
 # Защита от маршрута по умолчанию
